@@ -1,0 +1,11 @@
+.appbar{
+    height: 70px;
+    background-color: rgb(23, 23, 73) !important;
+     padding-top: 20px;
+    
+}
+.carticon{
+    text-align: right;
+    margin-right: 50px;
+  
+}

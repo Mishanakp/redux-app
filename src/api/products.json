@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "image":"https://img.freepik.com/free-photo/laptop-wooden-table_53876-20635.jpg?size=626&ext=jpg&ga=GA1.2.531248554.1663503756&semt=sph",
+        "name":"Laptop on a wooden table"
+
+    },
+    {
+        "id":1,
+        "image":"https://img.freepik.com/free-photo/laptop-with-blank-black-screen-white-table_53876-97915.jpg?w=1060&t=st=1668531530~exp=1668532130~hmac=e6fc6ace01500423a1c359709f4b443c5a0d5eec82f3b2b30a2bea41080637f1",
+        "name":"Laptop with blank black screen on a white table"
+
+    },
+    {
+        "id":2,
+        "image":"https://img.freepik.com/premium-photo/modern-laptop-wooden-table_271317-1217.jpg?w=1060",
+        "name":"Modern laptop on wooden table"
+
+    },
+    {
+        "id":3,
+        "image":"https://img.freepik.com/free-photo/open-laptop_144627-12148.jpg?w=1060&t=st=1668531601~exp=1668532201~hmac=b111a9150cacd506140c208c465ab68d07b6628050c8dd7ae67f6c9247611d6f",
+        "name":"Open laptop"
+
+    },
+    {
+        "id":4,
+        "image":"https://img.freepik.com/free-photo/desk-with-ssd-laptop-flat-lay_23-2149328275.jpg?w=1060&t=st=1668531740~exp=1668532340~hmac=ef52f997060c72109ea4787ad393e5eaf0ad9f0fd2c1247d3a9b6a01f6cc691d",
+        "name":"Desk with ssd and laptop flat lay"
+
+    },
+    {
+        "id":5,
+        "image":"https://img.freepik.com/premium-photo/side-view-laptop-pc-with-color-light-dark-technology-gaming-concept_37129-945.jpg?w=1380",
+        "name":"Side view of laptop pc with color light on dark. technology gaming concept"
+
+    },
+    {
+        "id":6,
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-black-color-place-table-with-dark-background-3d-illustration-rendering-image_37129-1714.jpg?w=1380",
+        "name":"Laptop computer black color place on table with dark background. 3d illustration rendering image"
+
+    }
+]
